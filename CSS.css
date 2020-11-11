@@ -1,0 +1,15 @@
+#toolTip.hidden{
+    display: none:
+}
+#toolTip {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-color: #ff6666;
+    border-radius: 10px;
+}
+#toolTip #img img {
+    width: 200px;
+    height: 200px;
+    }
